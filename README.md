@@ -28,4 +28,4 @@
 3일차 윈폼 학습결과
 	
 <img	
-scr=https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms.png" width="700">
+scr="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms.png" width="700">
