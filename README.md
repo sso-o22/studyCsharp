@@ -29,3 +29,11 @@
 
 <img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms.png" width="700" />
 
+
+## 4일차
+- C# 기본
+	- 클래스 상속 계속
+	
+- Win App	
+	- Winforms 컨트롤 마무리
+	- Winforms 예제 실습
