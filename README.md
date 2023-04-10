@@ -33,7 +33,23 @@
 ## 4일차
 - C# 기본
 	- 클래스 상속 계속
+	- 인터페이스
 	
 - Win App	
 	- Winforms 컨트롤 마무리
-	- Winforms 예제 실습
+	- Winforms 파일복사 앱
+	- 로그인앱 실습
+	
+
+## 5일차
+- C# 기본
+	- 인터페이스, 추상클래스
+	- 프로퍼티
+	
+- Win App	
+	- Winforms 디자인 오류시 해결방법
+	- Winforms 탐색기 만들기
+	
+5일차 윈도우 탐색기 만들기 중
+
+<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms2.png" width="700" />
