@@ -69,12 +69,25 @@
 		- 컨텍스트 메뉴 (마우스 오른쪽 메뉴)
 		- 보호된 운영체제 폴더 숨기기
 		- 리스트뷰 폴더 더블클릭시 하위폴더로 표시
-	- DB핸들링
+	- DB 핸들링
 
 6일차 탐색기 완료
 
 <img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms3.png" width="700" />
 
 ## 7일차
+- C# 기본
+	- 대리자, 이벤트
+	- 람다식
+	- 애트리뷰트
+	- 파일 핸들링
+	- 더 공부해야 할 내용 (LINQ, 리플렉션, dynamic)
+	
+- Win App
+	- DB 핸들링
+	- SDI vs MDI
+	
+	
+	
 	- BookRentalShop DB 사용 Winforms 앱 개발
-	- 실습 예제
+	- 실습예제
