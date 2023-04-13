@@ -80,7 +80,6 @@
 	- 대리자, 이벤트
 	- 람다식
 	- 애트리뷰트
-	- 파일 핸들링
 	- 더 공부해야 할 내용 (LINQ, 리플렉션, dynamic)
 	
 - Win App
@@ -88,6 +87,16 @@
 	- SDI vs MDI
 	
 	
+## 8일차
+- C# 기본
+	- 파일 핸들링
+	- 스레드 / 태스크
+	- 가비지 컬렉션
 	
+- Win App	
+	- 메모장 만들기
 	- BookRentalShop DB 사용 Winforms 앱 개발
-	- 실습예제
+	
+심플 메모장
+
+<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms4.png" width="700" />
