@@ -27,7 +27,7 @@
 	
 3일차 윈폼 학습결과
 
-<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms.png" width="700" />
+<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms.png" width="700">
 
 
 ## 4일차
@@ -53,7 +53,7 @@
 	
 5일차 탐색기 만들기 중
 
-<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms2.png" width="700" />
+<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms2.png" width="700">
 
 
 ## 6일차
@@ -73,7 +73,7 @@
 
 6일차 탐색기 완료
 
-<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms3.png" width="700" />
+<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms3.png" width="700">
 
 ## 7일차
 - C# 기본
@@ -90,13 +90,23 @@
 ## 8일차
 - C# 기본
 	- 파일 핸들링
+	- 윈폼 메모장 (파일 핸들링)
+	
+- Win App	
+	- BookRentalShop DB 사용 Winforms 앱 개발
+		- Winforms MDI
+		- MySQL.Data Lib DB 연동
+	
+심플 메모장
+
+<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms4.png" width="700">
+
+
+## 9일차
+- C# 기본
 	- 스레드 / 태스크
 	- 가비지 컬렉션
 	
 - Win App	
-	- 메모장 만들기
-	- BookRentalShop DB 사용 Winforms 앱 개발
+	- BookRentalShop 만들기 계속
 	
-심플 메모장
-
-<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms4.png" width="700" />
