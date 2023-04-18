@@ -116,3 +116,8 @@
 	- BookRentalShop 만들기 계속
 	
 - 코딩테스트
+
+
+10일차 책대여점 프로그램
+
+<img src="https://raw.githubusercontent.com/sso-o22/studyCsharp/main/Images/winforms5.png" width="700">
